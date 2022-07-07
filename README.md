@@ -2,7 +2,7 @@
 
 ### Github: https://github.com/duhjeffmeister
 
-### Walkthrough video: 
+### Walkthrough video: https://drive.google.com/file/d/1romkvgkRLyqNI_cPalIIfLFWvpR7YmbN/view?usp=sharing
 
 ## Description
 README generator based on node.js
